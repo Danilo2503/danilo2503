@@ -23,7 +23,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
   
 <div>
 
-  <a href="mailto: dannilorch@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto: danilotomaz.oficial@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/danilo-de-freitas-tomaz-rocha-74304a1b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
