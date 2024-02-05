@@ -1,5 +1,5 @@
 ## Olá, sou o Danilo👋 <br>
-Sou aluno do curso técnico em Multimídia na instituição SENAI e Tecnologia da Informação na UNIVESP👨‍💻🚀
+Sou aluno do curso técnico em Multimídia na instituição SENAI e Tecnologia da Informação na UNIVESP👨‍💻🚀<br>
 Recém contratado como estágiario da Digitrix 💻⚙
 #
 
