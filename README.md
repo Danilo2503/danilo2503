@@ -1,14 +1,6 @@
-## Olá, sou o Danilo👋 <br>
-Sou aluno do curso técnico em Multimídia na instituição SENAI e Tecnologia da Informação na UNIVESP👨‍💻🚀<br>
-Ticket Manager na Digitrix 💻⚙
-#
+<p align="left"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=danilo2503&bg=deeppink&fill=black"></p>
 
-<div>
-  <a href="https://github.com/danilo2503">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilo2503&theme=radical&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo2503&layout=compact&langs_count=16&theme=radical"/>
-</div>
-  
+<p align="left" text-decoration="bold"> Tecnologias</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Python" height="30" width="40" 
@@ -18,9 +10,17 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
-  ##
-  
+
 <div>
+
+
+<div>
+  <a href="https://github.com/danilo2503">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilo2503&theme=radical&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo2503&layout=compact&langs_count=16&theme=radical"/>
+</div>
+  
+
   
 <div>
 
