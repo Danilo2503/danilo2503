@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Danilo and I'm a intern at Digitrix, from São Paulo - Brasil</p>
+<p align="left">My name is Danilo and I'm currently part of the Monitoring Team at Digitrix, São Paulo - Brasil</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2002<br>📚 I'm currently learning Data Science<br>🎯 Goals: Specialize in the Microsoft Cloud environment(Azure, Intune, EntraID etc)</p>
+<p align="left">✨ Creating bugs since 2002<br>📚 I'm currently studying Cyber Security<br>🎯 Goals: Specialize in the Microsoft Cloud environment(Azure, Intune, EntraID etc)</p>
 
 ###
 
