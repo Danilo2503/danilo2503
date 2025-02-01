@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Danilo and I'm currently part of the Monitoring Team at Digitrix, São Paulo - Brasil</p>
+<p align="left">My name is Danilo and I'm currently part of the Monitoring Team at Digitrix, São Paulo - Brazil</p>
 
 ###
 
